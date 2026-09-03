@@ -1,5 +1,7 @@
 # 🎬 Movies Analytics Project
 
+![Dashboard](Dashboard.png)
+
 ## 📌 Project Overview
 
 An end-to-end **Data Science project** that transforms publicly available movie data from **TMDB** into actionable insights through:
